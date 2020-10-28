@@ -86,7 +86,7 @@ Finally, we will add a weapon. Right click on the Pivot node, and Add Child Node
 
 In the Assets folder (in the FileSystem panel), you should see shotgun.obj. Drag that file to the Mesh property in the Inspector
 
-Under Spatial->Transform, set Translation->x: 0.2, y: -0.15, z: -0.3. Set Rotation Degrees->x: 180. Set Scale->x: 8, y: 8, z: 8
+Under Spatial->Transform, set Translation->x: 0.2, y: -0.15, z: -0.3. Set Rotation Degrees->x: 180 and Rotation Degrees->z: 180. Set Scale->x: 8, y: 8, z: 8
 
 If you run the game again, you should now be holding a blue gun.
 
